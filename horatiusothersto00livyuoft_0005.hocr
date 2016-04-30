@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./horatiusothersto00livyuoft_0005.png"; bbox 0 0 1716 2542; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 141 134 729 199">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 141 134 729 199">
+     <span class='ocr_line' id='line_1_1' title="bbox 141 134 729 199; baseline -0.012 1"><span class='ocrx_word' id='word_1_1' title='bbox 141 139 266 199; x_wconf 88' lang='lat' dir='ltr'>Pitt</span> <span class='ocrx_word' id='word_1_2' title='bbox 317 140 487 197; x_wconf 86' lang='lat' dir='ltr'>Press</span> <span class='ocrx_word' id='word_1_3' title='bbox 539 134 729 195; x_wconf 83' lang='lat' dir='ltr'>Series</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 202 1154 1407 1229">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 202 1154 1407 1229">
+     <span class='ocr_line' id='line_1_2' title="bbox 202 1154 1407 1229; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 202 1154 566 1229; x_wconf 78' lang='lat' dir='ltr'>Horatius</span> <span class='ocrx_word' id='word_1_5' title='bbox 627 1156 777 1229; x_wconf 81' lang='lat' dir='ltr'>and</span> <span class='ocrx_word' id='word_1_6' title='bbox 843 1157 1064 1229; x_wconf 76' lang='lat' dir='ltr'>other</span> <span class='ocrx_word' id='word_1_7' title='bbox 1130 1155 1407 1229; x_wconf 80' lang='lat' dir='ltr'>Stories</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
